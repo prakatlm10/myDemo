@@ -1,2 +1,2 @@
 # myDemo
-This is a demo repositary.
+This is a demo repositary by me.
